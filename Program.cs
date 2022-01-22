@@ -6,6 +6,7 @@ namespace Aula_98__Repositorio_Git_ {
 
             Console.WriteLine("Olá mundo");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Como voce está hoje?");
         }
     }
 }
